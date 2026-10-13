@@ -30,10 +30,10 @@ Clone the repo into your Claude Code skills directory:
 
 ```bash
 # personal (all projects)
-git clone <repo-url> ~/.claude/skills/scientific-figure-design
+git clone https://github.com/bpoult/scientific-figure-design.git ~/.claude/skills/scientific-figure-design
 
 # or for a single project
-git clone <repo-url> .claude/skills/scientific-figure-design
+git clone https://github.com/bpoult/scientific-figure-design.git .claude/skills/scientific-figure-design
 ```
 
 Claude loads the skill on its own when a task involves designing or
@@ -46,3 +46,7 @@ This skill is built to work alongside a `python-plotting-style` house-style
 skill. For publication and poster figures, it overrides five named defaults
 from that skill (see `SKILL.md`). If you don't have that skill, the method
 and checklist still work on their own.
+
+## License
+
+[MIT](LICENSE)
