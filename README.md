@@ -2,8 +2,8 @@
 
 A [Claude Code](https://docs.claude.com/en/docs/claude-code) skill that gives
 Claude a design **method** and review **rubric** for publication-ready
-scientific figures. It draws on the Nature Methods "Points of View" columns
-(Wong, Krzywinski, Gehlenborg, Streit et al., 2010-2016) and Rougier et al.
+scientific figures. It draws on the [Nature Methods "Points of View" columns
+(Wong, Krzywinski, Gehlenborg, Streit et al., 2010-2016)] (https://communities.springernature.com/posts/data-visualization-a-view-of-every-points-of-view-column) and Rougier et al.
 2014, "Ten Simple Rules for Better Figures".
 
 ## What it provides
